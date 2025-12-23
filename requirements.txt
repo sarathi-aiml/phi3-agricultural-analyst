@@ -1,0 +1,25 @@
+# Agricultural Insight Analyst - Dependencies
+# Optimized for NVIDIA DGX Spark (Blackwell GPU, 128GB RAM)
+# Install with: pip install -r requirements.txt
+
+# Core ML - Latest versions for Blackwell support
+torch>=2.2.0
+transformers>=4.40.0
+datasets>=2.14.0
+accelerate>=0.27.0
+
+# Note: Using PyTorch SDPA (built-in) instead of flash-attn for Blackwell compatibility
+
+# Parameter-Efficient Fine-Tuning
+peft>=0.10.0
+trl>=0.8.0
+
+# Demo & Visualization
+gradio>=4.0.0
+pandas>=2.0.0
+
+# HuggingFace Hub
+huggingface_hub>=0.21.0
+
+# Utilities
+tqdm>=4.65.0

@@ -1,0 +1,10 @@
+Take a look at this project, this project is created tro demonstrate my capablity of model distillation. 
+these codes genearted by Claude chat web interface. all the file are numbered in sequence to gets arted. 
+my chat with claude to genertae these code are in @claude_chat_history.txt
+
+this computer is Nvidia DGX spark with latest blackwell 13 gpu and 128 RAM and 4 TB nviem SSD. 
+
+make sure all the codes utilize these GPU. previous when tested GPU was not used for thess codes. test it and udpate it for GPU usage. 
+
+do not move away from my original goal. guild me step by step on this project. give me clear output after each step o1 ,02... completed 
+before upload to huggung face hold iot for me to verify. all the chat and sessiond etails store it ina  file for resume incase of connection or internet failure. 
