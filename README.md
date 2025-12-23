@@ -1,9 +1,9 @@
 # 🌾 Agricultural Insight Analyst
 
-> **Knowledge Distillation Demo**: Transferring domain expertise from large language models into a compact, efficient model for agricultural analysis.
+> **Knowledge Distillation**: Transferring domain expertise from large language models into a compact, efficient model for agricultural analysis.
 
-[![Model on HuggingFace](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/YOUR_USERNAME/phi3-agricultural-analyst)
-[![Demo on Spaces](https://img.shields.io/badge/🚀-Live%20Demo-blue)](https://huggingface.co/spaces/YOUR_USERNAME/agricultural-analyst-demo)
+[![Model on HuggingFace](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/sarathi-balakrishnan/phi3-agricultural-analyst)
+[![Demo on Spaces](https://img.shields.io/badge/🚀-Live%20Demo-blue)](https://huggingface.co/spaces/sarathi-balakrishnan/agricultural-analyst-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ![Agricultural Analyst Demo](assets/demo_screenshot.png)
@@ -232,9 +232,7 @@ MIT License - feel free to use, modify, and distribute.
 ## 👤 Author
 
 **[Your Name]**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: [linkedin]([https://www.linkedin.com/in/sarathib/](https://www.linkedin.com/in/sarathib/))
 
 ---
 
