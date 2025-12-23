@@ -231,8 +231,8 @@ MIT License - feel free to use, modify, and distribute.
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [linkedin]([https://www.linkedin.com/in/sarathib/](https://www.linkedin.com/in/sarathib/))
+**[Sarathi Balakrishnan]**
+- LinkedIn: https://www.linkedin.com/in/sarathib/
 
 ---
 
