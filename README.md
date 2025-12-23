@@ -1,6 +1,6 @@
-# 🌾 Agricultural Insight Analyst
+# Knowledge Distillation
 
-> **Knowledge Distillation**: Transferring domain expertise from large language models into a compact, efficient model for agricultural analysis.
+> **🌾 Agricultural Insight Analyst Knowledge Distillation**: Transferring domain expertise from large language models into a compact, efficient model for agricultural analysis.
 
 [![Model on HuggingFace](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/sarathi-balakrishnan/phi3-agricultural-analyst)
 [![Demo on Spaces](https://img.shields.io/badge/🚀-Live%20Demo-blue)](https://huggingface.co/spaces/sarathi-balakrishnan/agricultural-analyst-demo)
